@@ -10,8 +10,8 @@ export const CartIconContainer = styled.div`
   cursor: pointer;
 
   svg {
-    width: 24px;
-    height: 24px;
+    width: 35px;
+    height: 35px;
   }
 `;
 
